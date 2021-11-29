@@ -70,5 +70,4 @@ This is my first ML project.
 
 9
 
-
-#在这之余还学习了用TensorBoard的可视化和利用web可视化，但是使用并不熟练，博文会在后期补充。
+在这之余还学习了用TensorBoard的可视化和利用web可视化，但是使用并不熟练，博文会在后期补充。
